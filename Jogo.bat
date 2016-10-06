@@ -1,7 +1,7 @@
 @echo off 
 title Jogo
 color 0a
-   set senha="haha"
+   set senha="123"
   echo  Vamos Iniciar o Jogo, Seu Filho da Puta:
 for /l %%t in (1,1,3) do ( 
   echo Vc tem 3 Chances para virar meu "Amigo" ou mato seu Sistema: %%t/3:
