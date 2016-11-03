@@ -52,7 +52,7 @@ echo.
 	echo.
 	echo Diretorio deletado com sucesso
 	
-	            :nao
+	                        :nao
 				exit
 				MSG * Voce disse que nao queria realizar a operacao selecionada entao eu sai...
 
@@ -86,6 +86,6 @@ echo.
 			goto menu
 
 
-   :sair
+         :sair
 	 exit
 	
