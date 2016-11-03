@@ -19,7 +19,7 @@ set /p b=Insira o segundo valor:
 			echo.
 			echo 5- Sair da calculadora 
 
-	set /p opcao=Digite a opcao:
+    set /p opcao=Digite a opcao:
     echo.
     if %opcao% EQU 1 (goto soma)
     if %opcao% EQU 2 (goto subtracao)
